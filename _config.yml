@@ -1,7 +1,7 @@
 name: horsesandheroes
 favicon: null
 layout_spectrum: 0.89934
-typography_spectrum: 0.8211833543609828
+typography_spectrum: 0.99643
 title: 'Equine Therapy Solutions '
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#c5c8d1'
   brandStrength: 0.5
   lightness: 0.25
-  saturation: 0.8125
+  saturation: 0.875
   rhythmicContrast: 0.75
 purpose: []

@@ -1,0 +1,28 @@
+name: horsesandheroes
+favicon: null
+layout_spectrum: 0.23629154777154326
+typography_spectrum: 0.8211833543609828
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5291537519078702
+  lightness: 0.2825219454243779
+  saturation: 0.5711702348198742
+  rhythmicContrast: 0.013221024069935083
+purpose: []
